@@ -1,0 +1,50 @@
+﻿
+ZamalekDistrict
+A
+Agouza:Agooza:Aguza:Agoza:العجوزة: عجوزة
+Dokki:Doki:Dokky:Doky:Duqi:Duqy:Duqqi:الدقي: دقي
+Down Town:Downtown:West el balad:West al balad:وسط البلد
+Garden City:Gardencity:جاردن سيتي
+Giza:جيزة:الجيزة
+Mohandeseen:Mohandessien:Mohandesien:Mohandesin:Mohandessin:المهندسين:مهندسين
+Zamalek:El Zamalek:Zamallek:Al Zamalek:El Zamallek:Al Zamallek:الزمالك:زمالك
+B
+6 Oct:6th Oct:6th October:6th of October:6-Oct:6-October:6th of Oct:Six Oct:Six of October:Six October:06 Oct:06-Oct:6 OCTOBER:مدينة السادس من اكتوبر:6 اكتوبر:السادس من اكتوبر
+Abou Rawash:Abo Rawash:Abu Rawash:ابو رواش
+Cairo Alex Road:Cairo Alexandria Road:Cairo Alex rd:طريق مصر اسكندرية:طريق مصر اسكندرية الصحراوي
+Haram:El Haram:Al Haram:Elharam:Alharam:الهرم:هرم
+Sheikh Zayed:Sheikh Zaied:El Sheikh Zayed:Al Sheikh Zayed:El Sheikh Zaied:Al Sheikh Zaied:مدينة الشيخ زايد:الشيخ زايد:شيخ زايد 
+Solaimaneya:Solaymaneya:Al Solaymaneya:El Solaymaneya:EL Solaimaneya:Al Solaimaneya:السليمانية:قرية السليمانية:سليمانية 
+
+MaadiDistrict
+A
+Maadi:Maady:El Maadi:Al Maadi:El Maady:Al Maady:Ma'adi:Ma'ady:المعادي:معادي
+El Manial:Al Manial:Manial:Manyal:Al Manyal:El Manyal:المنيل:منيل
+Masr El Kadeema:Masr Al Kadeema:Masr Al Qadeema:Masr El Qadeema:Misr El Kadeema:Misr Al Kadeema:Misr El Kadima:Masr El Kadima:Masr El Kadima:Masr Al Kadima:مصر القديمة 
+Mokattam:El Mokattam:Al Mokattam:Mokkattam:El Mokkattam:Al Mokkattam:Moqattam:El Moqattam:Al Moqattam:المقطم:مقطم 
+B
+El Katameya:El Kattameya:AL Katameya:Al Kattameya:Katammeya:Kattammeya:Al Kattammeya:El Kattammeya:El Katammeya:Al Katammeya:القطامية:قطامية 
+El Tagamoa El Khames:El Tagamo3 El Khames:El Tagamoa El kamis:El Tagamo3 El Khamis:Tagamo3:El Tagamo3:5th Settlement:5 Settlement:التجمع الخامس
+New Cairo:Al Qahira Al Gadida:Al Qahira Al Gedida:Al Kahira Al Gadida:Al Kahira Al Gedida:Al Kahera El Gedida:Al Qahera El Gedida:القاهرة الجديدة 
+DAR EL SALAM:دار السلام
+Helwan:Hilwan:حلوان
+
+HeliopolisDistrict
+A
+Hadayek El Qobba:Hadayek El Qoba:Hadayeq El Kobba:Hadayeq El Koba:Haddayek El Kobba:Hadayek El Koba:Haddayeq El Cobba:Hadaik El Kobba:Hadaik El Qobba:حدائق القبة 
+Heliopolis:Helio:Helioplis:Masr El Gedida:Misr El Gedida:Masr Al Gedida:Misr Al Gedida:هيليوبوليس:هليوبوليس:هليوبليس:مصرالجديدة
+Masaken Sheraton:Sheraton:مساكن شيراتون:شيراتون
+Nasr City:Nacr City:Nasrcity:مدينة نصر
+New Nozha:El Nozha El Gedida:Al Nozha Al Gadida:النزهة الجديدة 
+Nozha:النزهة:نزهة
+B
+10th of Ramadan:10 Ramadan:10 Ramdan:العاشر من رمضان 
+El Obour:Obour:Oboor:El Oboor:Al Obour:Al Oboor:العبور 
+El Rehab:Rehab:Al Rehab:Rihab:El Rihab:Al Rihab:AL RIHAB:الرحاب:رحاب
+El Sherouk:Shorouq:Al Sherouq:Al Sherouk:Al Shorouq:Shorook:Shorooq:Sherooq:Sherook:الشروق
+Madinaty:Madynaty:Madynati:Madenty:Madenti:مدينتي
+Masr Ismailia Road:Misr Ismailia Road:Masr Ismailya Road:Misr Ismailya Road:Masr Ismaylia Road:Misr Ismaylia Road:طريق مصر اسماعلية الصحراوي:طريق مصر اسماعلية
+Ahmed Oraby:Ahmed Oraby Compound:Ahmed Orabi:Ahmed Orabi Compound:احمد عرابي
+Shobra:Chobra:Shoubra:Choubra:CHOUBRA:شبرا
+Abbaseya:Abaseya:Abaseia:Abbaseia:Abasseya:Abasseia:Abbassia:العباسية:عباسية
+Ghamra:Gamra:Ghmra:Gmra:Ghamara:Gamara:غمرة
